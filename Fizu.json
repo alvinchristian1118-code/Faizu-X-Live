@@ -15,12 +15,18 @@
     {
       "device_id": "11a4359e489867d1",
       "username": "SAHIL",
-      "password": "12q",
+      "password": "121",
       "expire_date": "2026-04-15"
     },
     {
       "device_id": "84d1c7dd0ced7fb8",
       "username": "tony",
+      "password": "121",
+      "expire_date": "2026-06-01"
+    }
+    {
+      "device_id": "d8913b62fd570de6",
+      "username": "SARFRAZ",
       "password": "121",
       "expire_date": "2026-06-01"
     }
